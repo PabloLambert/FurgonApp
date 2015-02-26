@@ -7,6 +7,6 @@
     <string name="hello_world">Bienvenido a FurgonApp</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="google_maps_key">AIzaSyD8oR2b_5zh7ZJdYvoOHGmJ4qT0E8cXoWw</string>
-
+    <string name="title_activity_central">CentralActivity</string>
 
 </resources>

@@ -60,7 +60,7 @@ public class StartingActivity extends ActionBarActivity {
         buttonGotoApp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), MainActivity.class );
+                Intent intent = new Intent(getApplicationContext(), CentralActivity.class );
 
                 startActivity(intent);
 
